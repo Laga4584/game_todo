@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_local_notifications_sample/_sample/_component/send_widget.dart';
-import 'package:flutter_local_notifications_sample/_sample/push_type.dart';
-import 'package:flutter_local_notifications_sample/_sample/send_model.dart';
+import 'package:game_todo/components/send_widget.dart';
+import 'package:game_todo/push_type.dart';
+import 'package:game_todo/send_model.dart';
 
 class ContentWidget extends StatelessWidget {
   final PushType type;
